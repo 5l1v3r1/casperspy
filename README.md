@@ -1,7 +1,5 @@
 # CasperSpy V2.1
-## Download New Release here
-http://github.com - automatic!
-[GitHub](http://github.com)
+## [Download New Release here](https://github.com/sillhouette/casperspy/releases)
 =========
 
 DISCLAIMER EULA
