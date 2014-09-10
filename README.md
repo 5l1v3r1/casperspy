@@ -1,5 +1,6 @@
 CasperSpy
 =========
+Download New Release here : https://github.com/sillhouette/casperspy/releases
 DISCLAIMER EULA
 
 CasperSpy is a free security software provided by Casperspy.com 
@@ -21,6 +22,5 @@ You should have received a copy of the GNU General Public
 License along with this program.  
 If not, see <http://www.gnu.org/licenses/>.
 
-casperspy.botnet@gmail.com
-
 NOTE: CasperSpy Official web is suspended. Donation can help me so much to buy new hosting and domain Casperspy.org
+casperspy.botnet@gmail.com
