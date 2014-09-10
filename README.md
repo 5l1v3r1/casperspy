@@ -22,3 +22,5 @@ License along with this program.
 If not, see <http://www.gnu.org/licenses/>.
 
 casperspy.botnet@gmail.com
+
+NOTE: CasperSpy Official web is suspended by our hosting. Donation can help us so much
