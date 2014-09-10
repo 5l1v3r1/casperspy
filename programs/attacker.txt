@@ -1,0 +1,71 @@
+agobot
+albertino
+aircrack
+andromeda
+autoinfector
+bifrost
+bionet
+burpsuite
+casperlogger
+casperspy
+citadel
+crime pack
+cythosia
+crypter.py
+crypter pack fud
+cybergate
+darkmoon
+dirbuster
+dmitry
+dnsdict
+dnsmap
+dnsrecon
+driftnet
+dvwa
+edjpgcom
+ettercap
+evilpdf exploit
+genpmk
+gerix
+havij pro
+hexedit
+hiew32
+idapro
+janidos
+jigsaw
+joomscan
+lbd
+keymail
+metasploit
+msfpayload
+mp-formgrabber
+nmap
+ollydbg
+peexplorer
+picebot
+prorat
+pyrit
+rapzo
+reaver
+reshack
+rxbot
+set
+slowloris
+softice
+subseven
+spitmo
+spy eye
+spynet
+stuxnet
+sqlmap
+the harvester
+tw-grabber
+turkojan
+trojan creator
+vertexnet
+vulcan
+wash
+webcrab
+wifite
+wp-scan
+zeus botnet

@@ -1,0 +1,10 @@
+wp touch
+co author
+genesis co author
+download monitor
+most comented
+notifysnack
+responsive lightbox
+social locker
+svg vector icon
+lockdown

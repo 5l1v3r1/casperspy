@@ -1,0 +1,58 @@
+Agobot
+Aircrack
+Albertino
+Autoinfector
+Bifrost
+Bionet
+Burpsuite
+CasperLogger
+CasperSpy
+Citadel
+Crypter Pack FUD
+Crypter.py
+Cythosia
+Darkmoon
+Dirbuster
+Dmitry
+Dnsdict
+Dnsmap
+Dnsrecon
+Driftnet
+DVWA
+Edjpgcom
+Ettercap
+Evilpdf exploit
+Genpmk
+Gerix
+Havij Pro
+Janidos
+Jigsaw
+Joomscan
+Keymail
+LBD
+Metasploit
+MP-Formgrabber
+Msfpayload
+Nmap
+Prorat
+Pyrit
+Rapzo
+Reaver
+SET
+Slowloris
+Spitmo
+Spy Eye
+Spynet
+SQLMAP
+Stuxnet
+The Harvester
+Trojan Creator
+Turkojan
+TW-Grabber
+VertexNet
+Vulcan
+Wash
+Webcrab
+Wifite
+Wp-Scan
+Zeus Botnet

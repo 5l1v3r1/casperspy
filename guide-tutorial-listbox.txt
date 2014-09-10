@@ -1,0 +1,60 @@
+Agobot IRC botnet 
+Autoinfection exploit
+Send login credentials to email
+CasperLogger hack any account
+Basic guide of SQL injection
+Build stealth email keylogger 
+Bypass upload filter 
+Bruteforce domain 
+Bruteforce against wifi 
+Complete Guide of XSS injection 
+Cracking WEP key 
+Cracking WIFI key 
+Cracking WIFI password
+Cracking WIFI find target WPS 
+Defacing web 
+Domain enumeration attack 
+Detect load balancing 
+DNS spoofing 
+Easiest way to hack joomla
+Embedding backdoor into PDF 
+Enumerate employee information
+Fastest way to crack wifi 
+Gathering sensitive data 
+Gathering information  
+Genpmk hash generator 
+Hack any account
+Hacking like spy agent 
+Hacking wordpress 
+Harvesting Corporate email 
+How Botnet work
+How to hack your girlfriends 
+How to hack any account
+HTTP DDOS using slowloris 
+Infect system automatically 
+Infectious Media Generator 
+Injectiong exploit into JPG 
+Import nmap scan into metasploit 
+Metasploit: steal login data 
+Metasploit: cracking WPS
+Metasploit: nmap & metasploit 
+Metasploit: inject backdoor into exe
+Metasploit: bypass ftp  
+Metasploit: hack corporate email 
+Metasploit: steal data from android 
+Most Strongest DDOS tools 
+Pentest with agobot 
+Scan and exploitation wordpress 
+Sniffing DNS  
+sniffing image video  
+Steal login credentials
+Spying on browser undetectable 
+Spy someone phone secretly 
+SQL injection automatically 
+Tutorial casperspy 
+Takeover database  
+Upload shell to webserver 
+Webcrab formgrabber 
+Web directory enumeration Attack 
+Web hacking XSS injection 
+Zeus complete tutorial
