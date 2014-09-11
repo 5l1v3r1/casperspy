@@ -1,8 +1,10 @@
 # CasperSpy V2.1
-## Video Tutorial CasperLauncher
+## [Download New Release here](https://github.com/sillhouette/casperspy/releases)
+### Video Tutorial CasperLauncher
 ![Video Tutorial](http://casperspy.com/images/casperlogger-video.png)
 ### [Watch it on Vimeo!](https://vimeo.com/92723862)
-## [Download New Release here](https://github.com/sillhouette/casperspy/releases)
+
+***
 
 DISCLAIMER EULA
 CasperSpy is a free security software provided by Casperspy.com 
