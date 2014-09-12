@@ -6,7 +6,7 @@
 Build and setup your bot in easy configuration
 Accessing control panel to manage your bot include manual how to use it
 
-### How to use CasperLauncher
+### How to make a bot using CasperSpy Builder
 ![Video Tutorial](http://casperspy.com/images/casperlogger-video.png)
 ### [Watch it on Youtube!](http://www.youtube.com/watch?v=m8PTBXZBK5E)
 
