@@ -8,7 +8,7 @@ Accessing control panel to manage your bot include manual how to use it
 
 ### How to use CasperLauncher
 ![Video Tutorial](http://casperspy.com/images/casperlogger-video.png)
-### [Watch it on Vimeo!](https://vimeo.com/92723862)
+### [Watch it on Youtube!](http://www.youtube.com/watch?v=m8PTBXZBK5E)
 
 ***
 ## Attacker
