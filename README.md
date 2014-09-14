@@ -1,6 +1,7 @@
 # CasperSpy V2.1
 ### CasperSpy Builder | Create a botnet has never been easier before
-[![Preview image](http://casperspy.com/images/buildervideotutorial.png)(http://www.youtube.com/watch?v=m8PTBXZBK5E)
+[![Preview image](http://casperspy.com/images/buildervideotutorial.png)](http://www.youtube.com/watch?v=m8PTBXZBK5E)
+
 ## [Download New Release here](https://github.com/sillhouette/casperspy/releases)
 **Easy to use…**
 Build and setup your bot in easy configuration
