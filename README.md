@@ -66,10 +66,6 @@ This is the content of **Start.bat** script:
 
 ***
 
-# [Have a Question? or Found a Problem](https://groups.google.com/forum/#!forum/casperspy)
-
-***
-
 # DISCLAIMER EULA
 
 CasperSpy is a free security software provided by Casperspy.com 
@@ -93,3 +89,5 @@ If not, see <http://www.gnu.org/licenses/>.
 
 NOTE: CasperSpy Official web is suspended. Donation can help me so much to buy new hosting and domain Casperspy.org
 casperspy.botnet@gmail.com
+
+## [Have a Question? or Found a Problem](https://groups.google.com/forum/#!forum/casperspy)
