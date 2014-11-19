@@ -13,7 +13,7 @@ All tools in CasperLauncher equipped by Tutorial and Guide How to use it
 so you can easily use any toolkit therein.
 CasperLauncher is distributed in the hope that it will be useful.
 
-## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
+# [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
 
 ## Getting Involved
 
@@ -44,7 +44,7 @@ Finally open **CasperLauncher.vbp** using Visual Basic
 You can create Bot Instantly using thist tool with Easy Configuration.
 Then make your bot undetectable in our Crypter.
 
-## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
+# [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
 
 ## Feature 
 
