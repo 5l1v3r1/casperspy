@@ -15,11 +15,13 @@ CasperLauncher is distributed in the hope that it will be useful.
 
 ## [Download New Release here](https://github.com/dhanumurti/casperspy/releases)
 
-## How to modify Source Code?
+## Getting Involved
 
 So you're interested in giving us a hand? That's awesome! We've put together some guidelines that should help
 you get started quickly and easily.
-You need **Visual Basic 6** Then you have to [Register Activex Component](https://groups.google.com/forum/#!topic/casperspy/0OeHEJytpa0).
+First download the source code [here](https://github.com/dhanumurti/casperspy/archive/master.zip).
+extract the zip file at any folder you want
+You need **Visual Basic 6** to see the project source Then you have to [Register Activex Component](https://groups.google.com/forum/#!topic/casperspy/0OeHEJytpa0).
 Finally open **CasperLauncher.vbp** using Visual Basic
 
 ***
