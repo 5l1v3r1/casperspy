@@ -39,10 +39,6 @@ Then make your bot undetectable in our Crypter.
 
 ***
 
-## Getting Involved
-
-Want to report a bug, request a feature, contribute or translate CasperSpy or CasperLauncher? Check out our in-depth guide to [Contributing to Casper](https://groups.google.com/forum/#!forum/casperspy). We need all the help we can get! You can also join in with our [community](https://groups.google.com/forum/#!forum/casperspy) to keep up-to-date and meet other CasperFriends.
-
 ## Scan Result
 
 Scanning Archive here : https://www.virustotal.com/en/file/e5659ae1a0019052ad2775ad239ed7c297a767f187d9c8546b1d39bb9388b105/analysis/1416241356/
@@ -89,6 +85,10 @@ This is the content of **Start.bat** script:
  
 
 ***
+
+## Getting Involved
+
+Want to report a bug, request a feature, contribute or translate CasperSpy or CasperLauncher? Check out our in-depth guide to [Contributing to Casper](https://groups.google.com/forum/#!forum/casperspy). We need all the help we can get! You can also join in with our [community](https://groups.google.com/forum/#!forum/casperspy) to keep up-to-date and meet other CasperFriends.
 
 ## DISCLAIMER EULA
 
