@@ -19,17 +19,8 @@ CasperLauncher is distributed in the hope that it will be useful.
 
 So you're interested in giving us a hand? That's awesome! We've put together some guidelines that should help
 you get started quickly and easily.
-
-### Preparation
-
-You need Visual Basic 6. Just it!
-
-### Register Activex Component
-
-[Visit here](https://groups.google.com/forum/#!topic/casperspy/0OeHEJytpa0).
-
-### Open CasperLauncher.vbp using Visual Basic
-
+You need Visual Basic 6. Then you have to [Register Activex Component](https://groups.google.com/forum/#!topic/casperspy/0OeHEJytpa0).
+Finally open CasperLauncher.vbp using Visual Basic
 
 ***
 
